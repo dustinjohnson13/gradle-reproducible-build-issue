@@ -1,0 +1,7 @@
+apply plugin: 'java'
+
+jar {
+    version = ''
+    preserveFileTimestamps false
+    reproducibleFileOrder true
+}
